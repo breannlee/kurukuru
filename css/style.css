@@ -602,6 +602,7 @@ ul {
 
 
 button {
+    font-family: var(--font-headings);
     background: #c90002;
     color: white;
     text-decoration: none;
