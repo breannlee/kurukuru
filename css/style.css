@@ -485,7 +485,7 @@ section {
 }
 
 .bgimage {
-    background-image: url(/img/kurukuru-menu-bottom.png);
+    background-image: url(../img/kurukuru-menu-bottom.png);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: bottom center;
@@ -538,7 +538,7 @@ section {
 }
 
 .story-info {
-    background-image: url(/img/kurukuru-hero-second-mask.png);
+    background-image: url(../img/kurukuru-hero-second-mask.png);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: bottom center;
