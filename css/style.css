@@ -740,3 +740,23 @@ button:hover {
 .button:active {
     top: 2px;
 }
+
+/* ANIMATION */
+
+.fade-in {
+    opacity: 0;
+    animation-name: my-fade-in;
+    animation-duration: 2s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+}
+
+@keyframes my-fade-in {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
