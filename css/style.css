@@ -330,7 +330,7 @@ section {
     word-break: break-word;
 }
 
-.about {
+.about-bg {
     /* content: ""; */
     /* background-image: url(../img/kurukuru-hero-second-mask.png); */
     background-size: 100%;
@@ -346,6 +346,16 @@ section {
     gap: 10em;
     padding-bottom: 5em;
 }
+
+.about {
+    background-image: url(../img/kurukuru-hero-second-mask.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    padding-top: 10em;
+}
+
+
 
 /* DISHES SECTION */
 .dishes-button {
